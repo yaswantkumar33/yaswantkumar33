@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yaswantkumar33/yaswantkumar33" />
+<img align="right" height=15 src="https://profile-counter.glitch.me/yaswantkumar33/count.svg" />
 
 
 <h1 align="center">
