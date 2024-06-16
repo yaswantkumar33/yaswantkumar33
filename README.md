@@ -31,9 +31,9 @@
   </div>
 <div align="center">
   <h3 align="center">Languages & Tools </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,npm,jquery,expressjs,mysql,postgresql,firebase,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,npm,jquery,expressjs" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,vite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,php,laravel,firebase,sequelize,vscode,github,gitlab,vite" />
 </div>
 <div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantkumar33&show_icons=true&locale=en&layout=compact" alt="yaswantkumar33" /></p>
