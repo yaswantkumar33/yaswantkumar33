@@ -66,10 +66,10 @@
    <!-- <img width=345 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yaswantkumar33&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
    <!-- <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api?username=yaswantkumar33&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yaswantkumar33&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
-   <table cellspacing="0" cellpadding="0" style="border:none">
+   <table cellspacing="0" cellpadding="0" style="border:none;width:'100%';">
   <tr style="border:none">
     <td style="border:none"><img width=325  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yaswantkumar33&count_private=true&theme=react&border_radius=10" alt="streak stats"/></td>
-    <td style="border:none" rowspan="2"> <img height=270 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yaswantkumar33&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </td>
+    <td style="border:none" rowspan="2"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswantkumar33&langs_count=8&theme=react" alt="top langs" /> </td>
   </tr>
   <tr>
     <td style="border:none"><img width=325 src="https://github-readme-stats-salesp07.vercel.app/api?username=yaswantkumar33&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></td>
@@ -87,8 +87,5 @@
   <h1></h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=40&pause=1000&center=true&random=false&width=700&height=120&lines=Thanks+For+Visiting+!+✌️+;+Send+Me+a+Message📩+;+Let's+Spark+a+digital+bonfire🔥;" alt="Typing SVG" /></a>
 </div>
-
-
-
 
 <!--refer thius viedo for deep details of this readmefile https://www.youtube.com/watch?v=eHaXw8Bd_ms-->
