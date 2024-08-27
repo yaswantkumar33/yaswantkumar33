@@ -19,6 +19,11 @@
 <h4>- I Am B.E Graduate In Computer Science And Engineering 🎓</h4>
 <h4>- Certified Web Developer - (FITA Inistitue) 📜</h4>
 <h4>- Passoniate , Disciplined , Self-Motivated 💪🏻</h4>
+<h2> Tech Stack </h4>
+   <h4> 💻 Front End - HTML,CSS,Bootstrap,Tailwind,Javascript,Jquery,Reactjs</h4>
+   <h4> 🧑🏻‍💻 Back End - Nodejs , Expressjs , PHP , MySQL , Laravel</h4>
+   <h4> 🛜 APIs - AJAX , AXIOS , REST Api </h4>
+   <h4> ⚒️ version control  - Git , Github , GITLab </h4>
   <div align="left">
     <h3 align="center">📩Contact Me Through !</h3>
   <div align="center">
