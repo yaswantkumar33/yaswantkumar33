@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agu+Display&size=24&duration=2500&pause=1800&center=true&width=700&lines=Hey+Hi+There+Welcome;Am+Yaswant;Web+Developer%2C+Wordpress+Developer%2C+Mern+Stack+develoepr" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agu+Display&size=24&duration=2500&pause=1800&center=true&vCenter=true&width=700&lines=Hey+Hi+There+Welcome;Am+Yaswant;Web+Developer%2C+WordPress+Developer%2C+Mern+Stack+develoepr" alt="Typing SVG" /></a>
 </h1>
 <div align="center">
 <img align="right" height="150" src="https://www.bing.com/th/id/OGC.d3b04eab1e692340264cfc7ca11c8a7d?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fcjTHLasRrcIAAAAC%2fone-piece-luffy.gif&ehk=0HSH9p5ZyakoQokVs%2fc1AQ55oLYlreH2blqCn34ocVk%3d"/>
@@ -15,6 +15,7 @@
    <h4> 💻 Front End - HTML,CSS,Bootstrap,Tailwind,Javascript,Jquery,Reactjs</h4>
    <h4> 🧑🏻‍💻 Back End - Nodejs , Expressjs , PHP , MySQL , Laravel</h4>
    <h4> 🛜 APIs - AJAX , AXIOS , REST Api </h4>
+   <h4> 🧩 Others  - WordPress , WordPress Plugin Development , Oxygen Page Builder </h4>
    <h4> ⚒️ version control  - Git , Github , GITLab </h4>
   <div align="left">
     <h3 align="center">📩Contact Me Through !</h3>
@@ -31,7 +32,7 @@
   <h3 align="center">Languages & Tools </h3>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,npm,jquery,expressjs" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,php,laravel,firebase,vscode,github,gitlab,vite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,php,laravel,firebase,wordpress,vscode,github,gitlab,vite" />
 </div>
 <div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantkumar33&show_icons=true&locale=en&layout=compact" alt="yaswantkumar33" /></p>
