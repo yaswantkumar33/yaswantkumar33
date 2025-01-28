@@ -1,6 +1,4 @@
 <img align="right" height=15 src="https://profile-counter.glitch.me/yaswantkumar33/count.svg" />
-
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agu+Display&size=24&duration=2500&pause=1800&center=true&vCenter=true&width=700&lines=Hey+Hi+There+Welcome;Am+Yaswant;Web+Developer%2C+WordPress+Developer%2C+Mern+Stack+develoepr" alt="Typing SVG" /></a>
 </h1>
