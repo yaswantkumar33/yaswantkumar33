@@ -6,9 +6,9 @@
 <img align="right" height="150" src="https://www.bing.com/th/id/OGC.d3b04eab1e692340264cfc7ca11c8a7d?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fcjTHLasRrcIAAAAC%2fone-piece-luffy.gif&ehk=0HSH9p5ZyakoQokVs%2fc1AQ55oLYlreH2blqCn34ocVk%3d"/>
 </div>
 <h4> 🔬 I’m currently Learning React Advance ,Next Js , CyberSecurity <a href="https://obvious-rambutan-cc2.notion.site/Cybersecurity-Roadmap-for-Beginners-1763dc4a4196804e9d59cb55eb54e87c">CBS Doc</a> </h4>
-<h4>- I Am B.E Graduate In Computer Science And Engineering 🎓</h4>
-<h4>- Certified Web Developer - (FITA Inistitue) 📜</h4>
-<h4>- Passoniate , Disciplined , Self-Motivated 💪🏻</h4>
+<h4> 🎓 I Am B.E Graduate In Computer Science And Engineering </h4>
+<h4> 📜 Certified Web Developer - (FITA Inistitue) </h4>
+<h4> 💪🏻 Passoniate , Disciplined , Self-Motivated </h4>
 <h2> Tech Stack </h4>
    <h4> 💻 Front End - HTML,CSS,Bootstrap,Tailwind,Javascript,Jquery,Reactjs</h4>
    <h4> 🧑🏻‍💻 Back End - Nodejs , Expressjs , PHP , MySQL , Laravel</h4>
