@@ -82,4 +82,20 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=40&pause=1000&center=true&random=false&width=700&height=120&lines=Thanks+For+Visiting+!+✌️+;+Send+Me+a+Message📩+;+Let's+Spark+a+digital+bonfire🔥;" alt="Typing SVG" /></a>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+   
+   ![snake gif](https://github.com/yaswantkumar33/yaswantkumar33/blob/output/github-snake-dark.svg)
+
+</div>
+
 <!--refer thius viedo for deep details of this readmefile https://www.youtube.com/watch?v=eHaXw8Bd_ms-->
