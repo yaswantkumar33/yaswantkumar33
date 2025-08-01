@@ -50,16 +50,39 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <img width="100%" height="160px" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
-<p align="left">
+<!--<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yaswantkumar33&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=22&rank_icon=github" alt="GitHub stats Card" />
-  <img width="48%" height="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yaswantkumar33&count_private=true&theme=react&border_radius=6" alt="readme stats" />
+<!--   <img width="48%" height="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yaswantkumar33&count_private=true&theme=react&border_radius=6" alt="readme stats" /> 
 </p>
 
 <p align="left">
+   <img width="48%" height="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yaswantkumar33&count_private=true&theme=react&border_radius=6" alt="readme stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantkumar33&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img  width="100px" src="https://github.com/yaswantkumar33/yaswantkumar33/blob/main/octocat-1754032554061.png" alt="octo pic">
 </p>
+-->
+<table>
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yaswantkumar33&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=22&rank_icon=github" alt="GitHub stats Card" />
+      </p>
+      <p>
+        <img width="100%" height="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yaswantkumar33&count_private=true&theme=react&border_radius=6" alt="readme stats" />
+      </p>
+      <p>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantkumar33&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+      </p>
+    </td>
+    <td align="center" valign="top">
+      <img width="500px" src="https://github.com/yaswantkumar33/yaswantkumar33/blob/main/octocat-1754032554061.png" alt="octo pic">
+    </td>
+  </tr>
+</table>
 <div align="center"> 
+
+
+  
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"> -->
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yaswantkumar33&theme=darkhub">
 </div>
