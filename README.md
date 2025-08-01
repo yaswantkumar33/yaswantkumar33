@@ -91,7 +91,8 @@
 
  **<h3>Contributions</h3>**
    
-   ![snake gif](https://github.com/yaswantkumar33/yaswantkumar33/blob/output/github-snake-dark.svg)
+  
+   <img src="https://github.com/yaswantkumar33/yaswantkumar33/blob/output/github-snake-dark.svg" width="100%">
 
 </div>
 
