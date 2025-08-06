@@ -62,14 +62,14 @@
   <tr>
     <td align="left" valign="top">
       <p>
-        <img width="100%" src="https://streak-stats.demolab.com?user=yaswantkumar33&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=yaswantkumar33&theme=tokyonight&hide_border=true" alt="yaswantkumar33's GitHub Stats" />
       </p>
       <p>
-       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yaswantkumar33&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="yaswantkumar33's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yaswantkumar33&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="yaswantkumar33's GitHub Stats" />
       </p>
       <p>
 <!--         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantkumar33&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" /> -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswantkumar33&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub stats Card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswantkumar33&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="yaswantkumar33's GitHub Stats" />
       </p>
     </td>
     <td align="center" valign="top">
