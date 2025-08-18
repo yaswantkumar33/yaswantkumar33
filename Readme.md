@@ -44,20 +44,10 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 <br>
 
- **<h3 align="left">GitHub Stats</h3>**
+ **<h2 align="left">GitHub Stats</h2>**
 
 <img width="100%" height="160px" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
-<!--<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yaswantkumar33&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=22&rank_icon=github" alt="GitHub stats Card" />
 
-</p>
-
-<p align="left">
-   <img width="48%" height="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yaswantkumar33&count_private=true&theme=react&border_radius=6" alt="readme stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantkumar33&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img  width="100px" src="https://github.com/yaswantkumar33/yaswantkumar33/blob/main/octocat-1754032554061.png" alt="octo pic">
-</p>
--->
 <table>
   <tr>
     <td align="left" valign="top">
@@ -87,7 +77,7 @@
 
 <div align="center">
 
- **<h3>Contributions</h3>**
+ **<h2>Contributions</h2>**
    <img src="https://github.com/yaswantkumar33/yaswantkumar33/blob/output/github-snake-dark.svg" width="100%"> 
 
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswantkumar33&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
