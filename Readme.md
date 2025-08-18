@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h2 align="left">Connect with me:</h2>** 
 
 <p align="left"><a href="https://github.com/https://github.com/yaswantkumar33" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://x.com/ArticStark1512" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yaswant-webdeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
