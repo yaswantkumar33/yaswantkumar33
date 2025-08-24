@@ -67,13 +67,6 @@
     </td>
   </tr>
 </table>
-<div align="center"> 
-
-
-  
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"> -->
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yaswantkumar33&theme=darkhub">
-</div>
 
 <div align="center">
 
