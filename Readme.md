@@ -12,7 +12,7 @@
 
 **<h2 align="left">Connect with me:</h2>** 
 
-<p align="left"><a href="https://github.com/https://github.com/yaswantkumar33" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://x.com/ArticStark1512" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yaswant-webdeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/https://github.com/yaswantkumar33" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/YashtheCoder" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yaswant-webdeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 <div align="center">
 <img align="right" height="150" src="https://www.bing.com/th/id/OGC.d3b04eab1e692340264cfc7ca11c8a7d?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fcjTHLasRrcIAAAAC%2fone-piece-luffy.gif&ehk=0HSH9p5ZyakoQokVs%2fc1AQ55oLYlreH2blqCn34ocVk%3d"/>
