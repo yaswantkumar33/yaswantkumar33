@@ -18,16 +18,34 @@
 <img align="right" height="150" src="https://www.bing.com/th/id/OGC.d3b04eab1e692340264cfc7ca11c8a7d?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fcjTHLasRrcIAAAAC%2fone-piece-luffy.gif&ehk=0HSH9p5ZyakoQokVs%2fc1AQ55oLYlreH2blqCn34ocVk%3d"/>
 </div>
 
- **<h3 align="left">🚀👨‍💻 Full-stack web developer skilled in React.js, Next.js ⚡, Node.js, Laravel, PHP, MySQL, and WordPress 🛠️. I build fast, scalable, and secure web apps with clean code and great UX. Currently exploring advanced React, Next.js, and cybersecurity 🔐 to level up even more. Passionate about solving real-world problems through purposeful, high-performance development 🚀.</h3>**
+ **<h4 align="left">About Me</h4>**
+ - Backend-focused Developer | Node.js • TypeScript  
+ - Building scalable APIs with clean architecture & real-world problem solving.  
+ - 🔧 Node.js • Express • PostgreSQL • MongoDB • Redis • Docker  
+ - 📈 Learning: System Design & high-performance backend  
+ - 🎯 Goal: Strong Backend Engineer @ product company
 
 <img  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 **<h2 align="left">Quick Bits</h2>**
 
-- 💼 I'm currently working on: **💻 Developing a new realtime chat application with groups and file sharing using MERN Stack**
-- 🌱 I'm currently learning: **🔬 Deep diving into Advanced React, mastering Next.js, and exploring the world of CyberSecurity.**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, Next.js, Express js, MongoDB, RESTful APIs, PHP, Laravel**
-- ⚡ Fun fact: **🧑‍💻 I once debugged a issue while on a date!**
+### ⚡ Quick Bits
+
+💼 Currently Building:
+→ Scalable REST APIs with authentication, caching (Redis), and background jobs
+
+📚 Currently Learning:
+→ System Design, TypeScript for backend, database optimization, and Docker
+
+🧠 Core Strengths:
+→ API design • Async programming • Database modeling • Clean architecture
+
+💬 Ask Me About:
+→ Node.js, Express, REST APIs, MongoDB vs PostgreSQL, Backend Roadmaps
+
+⚡ Fun Fact:
+→ I enjoy debugging complex backend issues more than writing UI 😄
+
 
 <img  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -47,6 +65,8 @@
  **<h2 align="left">GitHub Stats</h2>**
 
 <img width="100%" height="160px" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswantkumar33&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
   <tr>
@@ -72,10 +92,6 @@
 
  **<h2>Contributions</h2>**
    <img src="https://github.com/yaswantkumar33/yaswantkumar33/blob/output/github-snake-dark.svg" width="100%"> 
-
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswantkumar33&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-   
 </div>
 
 <div align="center">
