@@ -66,7 +66,7 @@
 
 <img width="100%" height="160px" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswantkumar33&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswantkumar33&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
   <tr>
@@ -78,7 +78,6 @@
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yaswantkumar33&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="yaswantkumar33's GitHub Stats" />
       </p>
       <p>
-<!--         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswantkumar33&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" /> -->
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswantkumar33&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="yaswantkumar33's GitHub Stats" />
       </p>
     </td>
