@@ -65,9 +65,6 @@
  **<h2 align="left">GitHub Stats</h2>**
 
 <img width="100%" height="160px" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswantkumar33&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <table>
   <tr>
     <td align="left" valign="top">
