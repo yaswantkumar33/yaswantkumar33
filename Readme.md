@@ -1,8 +1,3 @@
-
-
-<h1 align="center">Yaswant Kumar</h1>
-<p align="center">Frontend or full-stack engineer</p>
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/galaxy?username=yaswantkumar33&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91458105%3Fu%3D87c5018490742c1c11d29cdfd13442d0c5729654%26v%3D4" alt="yaswantkumar33 galaxy visual" />
 </p>
