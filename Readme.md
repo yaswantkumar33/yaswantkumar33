@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/yaswantkumar33/yaswantkumar33/blob/main/githubBannerTwo2.png" alt="github Banner Two">
+<img width="100%" src="https://github.com/yaswantkumar33/yaswantkumar33/blob/main/githubBannerTwo.png" alt="github Banner Two">
 
 <h2 align="left">Connect with me:</h2>
 
