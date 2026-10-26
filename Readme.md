@@ -1,6 +1,4 @@
-
-
-<img width="2172" height="724" alt="githubBannerTwo" src="https://github.com/user-attachments/assets/5dec5056-38e7-4814-b50c-1dde42af1502" />
+<img width="100%" src="https://github.com/yaswantkumar33/yaswantkumar33/blob/main/githubBannerTwo.png" alt="github Banner Two">
 
 <h2 align="left">Connect with me:</h2>
 
